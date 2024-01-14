@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfHTTPClient_14_01_2024.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfHTTPClient_14_01_2024"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="данные с сайта"/>
+            <TextBox x:Name="textBoxData"/>
+            <Button x:Name="ButtUpdate" Content="обновить" Click="ButtUpdate_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

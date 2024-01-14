@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHTTPClient_14-01-2024", "WpfHTTPClient_14-01-2024.csproj", "{E34CCD4A-7630-48CD-8C9D-262FB3D48FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34CCD4A-7630-48CD-8C9D-262FB3D48FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34CCD4A-7630-48CD-8C9D-262FB3D48FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34CCD4A-7630-48CD-8C9D-262FB3D48FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34CCD4A-7630-48CD-8C9D-262FB3D48FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF3E80A-6CDC-405B-B01C-3A4520147683}
+	EndGlobalSection
+EndGlobal
