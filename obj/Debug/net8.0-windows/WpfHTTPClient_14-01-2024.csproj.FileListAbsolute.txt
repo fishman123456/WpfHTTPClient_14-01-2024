@@ -18,3 +18,4 @@ D:\Github\WpfHTTPClient_14-01-2024\obj\Debug\net8.0-windows\refint\WpfHTTPClient
 D:\Github\WpfHTTPClient_14-01-2024\obj\Debug\net8.0-windows\WpfHTTPClient_14-01-2024.pdb
 D:\Github\WpfHTTPClient_14-01-2024\obj\Debug\net8.0-windows\WpfHTTPClient_14-01-2024.genruntimeconfig.cache
 D:\Github\WpfHTTPClient_14-01-2024\obj\Debug\net8.0-windows\ref\WpfHTTPClient_14-01-2024.dll
+D:\Github\WpfHTTPClient_14-01-2024\obj\Debug\net8.0-windows\WpfHTTPClient_14-01-2024.sourcelink.json
